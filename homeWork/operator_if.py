@@ -12,4 +12,4 @@ if a == b:
     if a > b:
         print("no way!")
     else:
-        print("My bad!")
+        print("My bad 1!")
