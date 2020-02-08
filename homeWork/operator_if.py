@@ -3,9 +3,9 @@ b = int(input("insert 2nd number: "))
 c = int(input("insert 3d number: "))
 if a > b:
     print("Свершилось!")
-if b > a:
+elif b > a:
     print("Да ну!")
-if a == b:
+elif a == b:
     print("А если так?")
     a = a + c
     b = b - c
